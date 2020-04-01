@@ -1,0 +1,27 @@
+.container {
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  width: 250px;
+  padding: 20px;
+}
+
+.counter-display {
+  margin-bottom: 20px;
+}
+
+.counter-text {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ff9900;
+  margin: 0 5px;
+}
+
+.counter-btns .btn {
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  width: 80px;
+  height: 40px;
+  outline: none;
+  background: #f2f2f2;
+  margin-right: 10px;
+}
